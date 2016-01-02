@@ -41095,3 +41095,5 @@ word_list = [
 "zurrar",
 "zurroro",
 ];
+
+alert("Debug log");
