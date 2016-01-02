@@ -3977,7 +3977,7 @@ word_list = [
 "baba",
 "babá",
 "babaquíssimo",
-"ab"ar",
+"abar",
 "babau",
 "babel",
 "babento",
