@@ -1,4 +1,4 @@
-"word_list = [",
+word_list = [
 "abacateiro",
 "abacate",
 "abacaxi",
@@ -41094,4 +41094,4 @@
 "Zurique",
 "zurrar",
 "zurroro",
-"];;",
+];
